@@ -1,0 +1,11 @@
+| Pipeline        | Model                                     |
+| --------------- | ----------------------------------------- |
+| Sentiment       | cardiffnlp/twitter-roberta-base-sentiment |
+| Text Generation | gpt2                                      |
+| Summarization   | facebook/bart-large-cnn                   |
+| QA              | deepset/roberta-base-squad2               |
+| Zero Shot       | facebook/bart-large-mnli                  |
+| NER             | dslim/bert-base-NER                       |
+| Translation     | Helsinki-NLP/opus-mt-en-fr                |
+| Document QA     | impira/layoutlm-document-qa               |
+| Text2Text       | google/flan-t5-base                       |
