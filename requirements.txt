@@ -1,0 +1,8 @@
+streamlit
+transformers
+torch
+torchvision
+PyPDF2
+python-docx
+pillow
+pytesseract
